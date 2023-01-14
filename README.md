@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Annie Tan
-- 👀 I'm interested in front-end web development, and artificial intelligence.
-- 🌱 I’m currently a student. 
+- 👀 I'm passionate about AI and web development.
+- 🌱 I’m currently a first-year Computer Science student. 
 
 <!---
 - 💞️ I’m looking to collaborate on ...
