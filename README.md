@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Annie Tan
 - 👀 I'm passionate about AI and web development.
-- 🌱 I’m currently a second-year Computer Science student. 
+- 🌱 I’m currently a Computer Science student. 
 
 <!---
 - 💞️ I’m looking to collaborate on ...
